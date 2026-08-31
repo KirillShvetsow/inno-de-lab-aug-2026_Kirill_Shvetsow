@@ -10,10 +10,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3HopXpaIaImLzD0b17GbemuXulM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +28,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "de__intro__1",
+    "git-widget-placeholder": "data__warehouse__basics__5",
     "last_opened_file_path": "D:/inno-de-lab-aug-2026_Kirill_Shvetsow/inno-de-lab-aug-2026_Kirill_Shvetsow/PostgreSQL",
     "vue.rearranger.settings.migration": "true"
   }
@@ -48,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1786544320086</updated>
       <workItem from="1786544321108" duration="1916000" />
+      <workItem from="1788123243105" duration="48000" />
     </task>
     <servers />
   </component>
